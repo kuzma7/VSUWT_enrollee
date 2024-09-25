@@ -18,7 +18,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-username/vguvt-admissions-app.git
+    git clone https://github.com/kuzma7/VSUWT_enrollee.git
     ```
 2. Откройте проект в Android Studio.
 3. Установите необходимые зависимости (при необходимости):
